@@ -28,10 +28,24 @@
 ### 📊 Power BI 看板 (包含 5 个核心分析主题分页)
 
 1. **管理层全局视角 (Executive Overview)**：汇总宏观收入总况、波动趋势、满意度分布及畅销商品排行。
+   <br>
+   <img src="./Visuals/执行概要.png" alt="管理层全局视角" width="800">
+
 2. **产品与分类表现 (Product Performance)**：分析各商品类目的利润贡献、评价表现以及物理属性对定价和运费的影响。
+   <br>
+   <img src="./Visuals/产品表现.png" alt="产品与分类表现" width="800">
+
 3. **履约与配送质量追踪 (Delivery & Quality)**：追踪核心按时交货率、不同地区的物流时长分布以及对用户满意度的直接影响。
+   <br>
+   <img src="./Visuals/运输质量.png" alt="履约与配送质量追踪" width="800">
+
 4. **用户画像及交易行为 (Customer Intelligence)**：地理区域收入热力学映射、客户分层以及复购留存留存动态。
+   <br>
+   <img src="./Visuals/客户信息.png" alt="用户画像及交易行为" width="800">
+
 5. **入驻卖家业绩效能评估 (Seller Performance)**：洞察高收入表现商家、卖家集聚对地理分布的影响和收款模型追踪。
+   <br>
+   <img src="./Visuals/卖家表现.png" alt="入驻卖家业绩效能评估" width="800">
 
 ### 📁 项目核心文档与依赖
 
